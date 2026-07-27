@@ -51,6 +51,8 @@ font-weight:600;
 
 height:85vh;
 
+min-height:500px;
+
 display:flex;
 
 flex-direction:column;
@@ -61,14 +63,19 @@ align-items:center;
 
 text-align:center;
 
-background-image: url("img/hero.jpg");
+background-image:url("img/hero.jpg");
+
+background-size:cover;
+
+background-position:center;
+
+background-repeat:no-repeat;
 
 color:#003b5c;
 
 padding:20px;
 
 }
-
 .hero h1{
 
 font-size:50px;
