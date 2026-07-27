@@ -159,6 +159,20 @@ transform:translateY(-8px);
 
 }
 
+.tarjeta img{
+
+width:100%;
+
+height:220px;
+
+object-fit:cover;
+
+object-position:center;
+
+border-radius:10px;
+
+}
+
 #nosotros{
 
 text-align:center;
